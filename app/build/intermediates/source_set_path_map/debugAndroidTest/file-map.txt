@@ -1,0 +1,7 @@
+com.example.timezone.test.app-androidTest-0 D:\Flutter UI Design\TimeZone\app\build\generated\res\resValues\androidTest\debug
+com.example.timezone.test.app-androidTest-1 D:\Flutter UI Design\TimeZone\app\build\generated\res\rs\androidTest\debug
+com.example.timezone.test.app-mergeDebugAndroidTestResources-2 D:\Flutter UI Design\TimeZone\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.timezone.test.app-mergeDebugAndroidTestResources-3 D:\Flutter UI Design\TimeZone\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.timezone.test.app-merged_res-4 D:\Flutter UI Design\TimeZone\app\build\intermediates\merged_res\debugAndroidTest
+com.example.timezone.test.app-annotation-experimental-1.3.0-5 D:\Flutter_Document\AutoAttendance\caches\transforms-3\9d8d7feb3580355ffff343143a4678dc\transformed\annotation-experimental-1.3.0\res
+com.example.timezone.test.app-core-1.5.0-6 D:\Flutter_Document\AutoAttendance\caches\transforms-3\cd423349e9fa80d0989033f52c5735f3\transformed\core-1.5.0\res

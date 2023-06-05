@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_mask.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/mask.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_motion.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/motion.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/anim_rotation.xml.flat",
+        "source": "com.example.timezone.app-main-35:/anim/rotation.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.timezone.app-main-35:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout-land_activity_alarm_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout-land/activity_alarm_activity.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_lion.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/lion.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_wrap.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/wrap.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout_activity_age_calculator_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout/activity_age_calculator_activity.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_group3.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/group3.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_ellipse.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/ellipse.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.timezone.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout_activity_alarm_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout/activity_alarm_activity.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout-land_activity_stop_watch.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout-land/activity_stop_watch.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout-land_activity_main.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_group5.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/group5.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/anim_linear_interpolator.xml.flat",
+        "source": "com.example.timezone.app-main-35:/anim/linear_interpolator.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_btnbg.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/btnbg.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_nion.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/nion.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout-land_activity_calculator_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout-land/activity_calculator_activity.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_group2.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/group2.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.timezone.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_motion1.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/motion1.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_full_circle.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/full_circle.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_group1.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/group1.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_timebg.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/timebg.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout_activity_timer_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout/activity_timer_activity.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout_activity_stop_watch.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout/activity_stop_watch.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_circle.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/circle.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout-land_activity_age_calculator_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout-land/activity_age_calculator_activity.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_ff.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/ff.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout-land_activity_timer_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout-land/activity_timer_activity.xml"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_backpic.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/backpic.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_component.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/component.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.timezone.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/drawable_group4.png.flat",
+        "source": "com.example.timezone.app-main-35:/drawable/group4.png"
+    },
+    {
+        "merged": "com.example.timezone.app-merged_res-33:/layout_activity_calculator_activity.xml.flat",
+        "source": "com.example.timezone.app-main-35:/layout/activity_calculator_activity.xml"
+    }
+]
